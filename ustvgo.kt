@@ -8,8 +8,8 @@ import com.lagradost.cloudstream3.utils.Qualities
 import org.jsoup.nodes.Element
 
 class EjaTv : MainAPI() {
-    override var mainUrl = "https://eja.tv"
-    override var name = "Eja.tv"
+    override var mainUrl = "https://ustvgo.tv/"
+    override var name = "ustvgo"
 
     // Universal language?
     override var lang = "en"
